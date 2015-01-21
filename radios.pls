@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+numberofentries=5
 
 File1=http://protonradio.com:7000
 Title1=Proton Radio
@@ -16,5 +16,9 @@ Length3=-1
 File4=http://shouthost.com.19.streams.bassdrive.com:8200
 Title4=Bass Drive
 Length4=-1
+
+File5=http://stream2.friskyradio.com:8000/frisky_mp3_hi
+Title5=Frisky Radio
+Length5=-1
 
 Version=2
