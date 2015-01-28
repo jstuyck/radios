@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=5
+numberofentries=8
 
 File1=http://67.222.104.211:7000/listen
 Title1=Proton Radio
@@ -13,12 +13,24 @@ File3=http://85.21.79.31:7128
 Title3=DeepMix
 Length3=-1
 
-File4=http://shouthost.com.19.streams.bassdrive.com:8200
+File4=http://amsterdam2.shouthost.com.streams.bassdrive.com:8000
 Title4=Bass Drive
 Length4=-1
 
 File5=http://stream2.friskyradio.com:8000/frisky_mp3_hi
 Title5=Frisky Radio
 Length5=-1
+
+File6=http://stream.house-radio.com:80/
+Title6=House Radio
+Length6=-1
+
+File7=http://broadcast.infomaniak.ch/radionova-high.mp3
+Title7=Radio Nova
+Length7=-1
+
+File8=http://pbb.laurentgarnier.com:8000/pbb128
+Title8=PBB
+Length8=-1
 
 Version=2
