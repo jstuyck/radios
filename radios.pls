@@ -1,11 +1,11 @@
 [playlist]
 numberofentries=5
 
-File1=http://protonradio.com:7000
+File1=http://67.222.104.211:7000/listen
 Title1=Proton Radio
 Length1=-1
 
-File2=http://source.dnbradio.com:10128
+File2=http://min.dnbradio.com:10128/dnbradio_main.mp3
 Title2=DnB Radio
 Length2=-1
 
