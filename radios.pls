@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=8
+numberofentries=9
 
 File1=http://67.222.104.211:7000/listen
 Title1=Proton Radio
@@ -25,12 +25,16 @@ File6=http://stream.house-radio.com:80/
 Title6=House Radio
 Length6=-1
 
-File7=http://broadcast.infomaniak.ch/radionova-high.mp3
-Title7=Radio Nova
+File7=http://91.121.113.129:8253/
+Title7= HouseBeat Radio
 Length7=-1
 
-File8=http://pbb.laurentgarnier.com:8000/pbb128
-Title8=PBB
+File8=http://broadcast.infomaniak.ch/radionova-high.mp3
+Title8=Radio Nova
 Length8=-1
+
+File9=http://pbb.laurentgarnier.com:8000/pbb128
+Title9=PBB
+Length9=-1
 
 Version=2
