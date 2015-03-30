@@ -1,7 +1,7 @@
 [playlist]
 numberofentries=9
 
-File1=http://67.222.104.211:7000/listen
+File1=http://protonradio.com:7000
 Title1=Proton Radio
 Length1=-1
 
@@ -25,7 +25,7 @@ File6=http://stream.house-radio.com:80/
 Title6=House Radio
 Length6=-1
 
-File7=http://91.121.113.129:8253/
+File7=http://91.121.113.129:8253/live
 Title7= HouseBeat Radio
 Length7=-1
 
