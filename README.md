@@ -1,4 +1,5 @@
-# radios
+## radios
+
 Just a file containing radio stream
 
 
@@ -7,3 +8,11 @@ Just a file containing radio stream
 
 - DnB Radio
 - BassDrive
+- Pedro basement broadcasr ( Radio from Laurent Garnier )
+
+
+## Usage 
+
+```bash
+$> mplayer -shuffle -playlist radios.pls
+```
