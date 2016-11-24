@@ -1,7 +1,7 @@
 [playlist]
 numberofentries=9
 
-File1=http://protonradio.com:7000
+File1=http://shoutcast.protonradio.com/listen.pls?sid=1
 Title1=Proton Radio
 Length1=-1
 
@@ -9,7 +9,7 @@ File2=http://min.dnbradio.com:10128/dnbradio_main.mp3
 Title2=DnB Radio
 Length2=-1
 
-File3=http://85.21.79.31:7128
+File3=http://94.176.104.15:8128/stream/1/
 Title3=DeepMix
 Length3=-1
 
